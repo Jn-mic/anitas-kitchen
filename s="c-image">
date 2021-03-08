@@ -1,0 +1,77 @@
+[33mcommit 1563b3a55951ed800759c95f93caaa72a32ffa02[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m)[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sun Mar 7 19:26:25 2021 +0300
+
+     it will add customers images
+
+[33mcommit 1497e71cac60630b8754d2222a25f2ada9ad9bc7[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sun Mar 7 16:52:19 2021 +0300
+
+     it will add the gallery button on the pages
+
+[33mcommit 3e2275bb5942925838118caa878ca1d4246a03a5[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sun Mar 7 16:21:01 2021 +0300
+
+     it will add flex on the pages
+
+[33mcommit 06b665581dc9110e71068da4b59384aaafe07ee5[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sun Mar 7 09:50:29 2021 +0300
+
+    it will add another paragraph explaining more about drinks
+
+[33mcommit 839c47d50a86728c512177341a12d8d624940067[m[33m ([m[1;31mmain/master[m[33m, [m[1;31mmain/gh-pages[m[33m, [m[1;32mmaster[m[33m)[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sun Mar 7 00:10:12 2021 +0300
+
+    It will add class to the images tags
+
+[33mcommit b89394a1adfb158cb923ff3fa776df85895a514d[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 20:47:38 2021 +0300
+
+    it will add header two to the file under class container
+
+[33mcommit 847a20619a3619eb1814c18df74e97ad08640659[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 19:34:52 2021 +0300
+
+    it will add flex direction to parent element
+
+[33mcommit c6c1487cff7438872c8c7638331260f0d94c1d00[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 18:37:45 2021 +0300
+
+     it will add paragraphs into grind section
+
+[33mcommit b5c479f99a5ced655970243ce137f7b89065f386[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 15:25:21 2021 +0300
+
+    it will add span
+
+[33mcommit 350f182dcc71cd873ad9951a4662733fae76fc14[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 11:31:37 2021 +0300
+
+    it will add landing image on the page
+
+[33mcommit d297b0b0bd752831a981b0afa4a884b65be768df[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 10:35:53 2021 +0300
+
+    it will add white background color to the body
+
+[33mcommit 97523085d569fb3a3ca720c9b7a667a8e55a7232[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 10:23:28 2021 +0300
+
+    it will link index css files to html files
+
+[33mcommit ec8e6c16a9ab58d45dd8e597c88e69ba7ffa4ada[m
+Author: jn-mc <jackotienokey@gmail.com>
+Date:   Sat Mar 6 09:55:53 2021 +0300
+
+    it will create index pages

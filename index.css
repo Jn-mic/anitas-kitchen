@@ -1,0 +1,198 @@
+p{
+    margin-bottom: 15px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{ 
+    background-color:white;  
+} 
+#w1{
+    background-image: url(landing.jpg);
+    background-size:cover;
+    background-position: center;
+    position: relative;
+    text-align: center;
+    padding-bottom: 0%; 
+}
+#wl p {
+    width: 10%;
+    padding: 15px; 
+}
+.logo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 10%;
+}
+#mobile-menu{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: white;
+}
+#intro{
+    color: white;
+    padding: 10px;
+    text-transform: capitalize;
+}
+.intro-bold{
+    font-weight: bold;
+}
+.d-grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);  
+}
+#first{
+    padding: 10px;
+    text-align: center;
+}
+
+#second{
+    padding: 10px;
+    background-color: tomato;
+    text-align: center;
+    color: white;
+}
+#bf{
+    background-image:url(breakfast.jpg) ;
+    text-align: center;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+
+#lc{
+    text-align:center ;
+    background-image: url(lunch.jpg);
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+
+#dn{
+    text-align: center;
+    background-image: url(dinner.jpg);
+    color: white;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    text-align: center;
+}
+.img1{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.row{
+    display: grid;
+    grid-template-columns: repeat( 2,1fr );
+    margin-bottom: 30px;
+
+}
+ .container{
+    padding:20px 120px ;
+ }
+.image-container{
+    display: flex;
+    grid-template-rows: repeat( 2, 1fr);  
+    align-items: flex-start;
+    flex-direction: column;
+}
+h2{
+    padding: 0;
+    margin: 0;
+}
+.item-descr{
+    padding: 20px;
+
+}
+#image-container{
+    display: flex;
+    grid-template-rows: repeat( 2, 1fr);  
+    align-items: flex-start;
+    flex-direction: row; 
+    float: right;
+}
+#image-container img{
+    width: 50%;
+}
+#image-container{
+    align-self: flex-end;
+    background-color: blue;
+}
+.btn{
+    border: 1px solid orange;
+    padding: 5px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: orange;
+
+}
+.tab-header{
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+}
+.tab-link{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    border-right: 1px solid gray;
+    text-align: center;
+    padding: 10px;
+}
+.tab-active{
+    background-color: white;
+    color: orange;  
+}
+.tab-content{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    background-color: white;
+}
+.parallax{
+    background-image: url(foodsBg.jpg);
+}
+.tab-image img{
+    width: 100%;
+}
+.tab-image{
+    text-align: center;
+    color: orange;
+
+}
+.customer-rev{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    text-align: center;
+    background-color: orchid;
+}
+.c-images{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.customers-images{
+    position: relative; 
+    display: grid; 
+    grid-template-columns: 1fr 10fr 1fr;
+    text-align: center;
+}
+.prev{
+    position: absolute;
+    left: 10px;
+}
+.next{
+    position: absolute;
+    right: 20px;
+}
