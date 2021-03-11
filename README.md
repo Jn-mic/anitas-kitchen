@@ -8,4 +8,5 @@ We provide on site food delivery and prompt food request.
 Program setup instructions.
 on request, we provide a provide a delivery to a 20km square radius servieces.
 copyright and license information.
-live(https://jn-mic.github.io/anitas-kitchen/)
+### Live Site
+View [live](https://jn-mic.github.io/anitas-kitchen/)
